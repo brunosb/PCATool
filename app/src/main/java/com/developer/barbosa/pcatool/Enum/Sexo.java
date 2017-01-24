@@ -5,5 +5,17 @@ package com.developer.barbosa.pcatool.Enum;
  */
 
 public enum Sexo {
-    MASCULINO,FEMININO
+    MASCULINO("MASCULINO"),
+    FEMININO("FEMININO");
+
+    private String sexo;
+
+    private Sexo(String sexo){
+        this.sexo = sexo;
+    }
+
+    @Override
+    public String toString() {
+        return sexo;
+    }
 }
