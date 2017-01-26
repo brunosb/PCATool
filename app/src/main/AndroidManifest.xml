@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.Cadastro">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -16,11 +16,32 @@
             </intent-filter>
         </activity>
 
-        <!--Data Base-->
-        <meta-data android:name="DATABASE" android:value="banco_pcatool" />
-        <meta-data android:name="VERSION" android:value="1" />
-        <meta-data android:name="QUERY_LOG" android:value="true" />
-        <meta-data android:name="DOMAIN_PACKAGE_NAME" android:value="com.developer.barbosa.pcatool.model" />
+        <!-- Data Base -->
+        <meta-data
+            android:name="DATABASE"
+            android:value="banco_pcatool" />
+        <meta-data
+            android:name="VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="true" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="com.developer.barbosa.pcatool.model" />
+
+        <activity android:name=".activity.ModuloQuestionario" />
+        <activity android:name=".activity.adulto.AdultoA" />
+        <activity android:name=".activity.adulto.AdultoB" />
+        <activity android:name=".activity.adulto.AdultoC" />
+        <activity android:name=".activity.adulto.AdultoD" />
+        <activity android:name=".activity.adulto.AdultoE" />
+        <activity android:name=".activity.adulto.AdultoF" />
+        <activity android:name=".activity.adulto.AdultoG" />
+        <activity android:name=".activity.adulto.AdultoH" />
+        <activity android:name=".activity.adulto.AdultoI" />
+        <activity android:name=".activity.adulto.AdultoJ" />
+        <activity android:name=".activity.Escore"></activity>
     </application>
 
 </manifest>

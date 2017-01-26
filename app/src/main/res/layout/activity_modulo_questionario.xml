@@ -9,8 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.developer.barbosa.pcatool.MainActivity"
-    android:layout_gravity="center_vertical|center_horizontal">
+    tools:context="com.developer.barbosa.pcatool.activity.ModuloQuestionario">
 
 
     <Button
@@ -18,12 +17,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnAdulto"
-        android:onClick="adultoQuestionario" />
+        android:layout_gravity="center_horizontal|center_vertical" />
 
     <Button
         android:text="Versão Profissional"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnProfissional"
-        android:onClick="profissionalQuestionario" />
+        android:layout_gravity="center_horizontal|center_vertical" />
 </LinearLayout>
