@@ -25,6 +25,7 @@ public class AdultoB extends AppCompatActivity {
         RadioButton score9 = (RadioButton) findViewById(R.id.b19);
 
 
+
         final Button btn = (Button) findViewById(R.id.proximo);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override

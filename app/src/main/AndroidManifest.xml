@@ -41,6 +41,14 @@
         <activity android:name=".activity.adulto.AdultoH" />
         <activity android:name=".activity.adulto.AdultoI" />
         <activity android:name=".activity.adulto.AdultoJ" />
+        <activity android:name=".activity.profissional.ProfissionalA"/>
+        <activity android:name=".activity.profissional.ProfissionalB"/>
+        <activity android:name=".activity.profissional.ProfissionalC"/>
+        <activity android:name=".activity.profissional.ProfissionalD"/>
+        <activity android:name=".activity.profissional.ProfissionalE"/>
+        <activity android:name=".activity.profissional.ProfissionalF"/>
+        <activity android:name=".activity.profissional.ProfissionalG"/>
+        <activity android:name=".activity.profissional.ProfissionalH"/>
         <activity android:name=".activity.Escore"></activity>
     </application>
 

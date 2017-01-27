@@ -8,6 +8,7 @@ import android.widget.Button;
 
 import com.developer.barbosa.pcatool.R;
 import com.developer.barbosa.pcatool.activity.adulto.AdultoA;
+import com.developer.barbosa.pcatool.activity.profissional.ProfissionalA;
 
 public class ModuloQuestionario extends AppCompatActivity {
 
@@ -30,7 +31,8 @@ public class ModuloQuestionario extends AppCompatActivity {
         btnProfissional.setOnClickListener(new Button.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(getApplicationContext(), ProfissionalA.class);
+                startActivity(intent);
             }
         });
     }
