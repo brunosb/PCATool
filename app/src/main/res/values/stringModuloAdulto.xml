@@ -113,10 +113,37 @@
 
     <!--Padroes H-->
     <string name="tituloH">H – INTEGRALIDADE – SERVIÇOS PRESTADOS</string>
+    <string name="HText1">A seguir, apresentamos uma lista de serviços que você pode ter recebido em consulta no “nome do serviço de saúde / ou nome médico/enfermeiro”.</string>
+    <string name="HText2">Em consultas ao “nome do serviço de saúde / ou nome médico/enfermeiro”, algum dos seguintes assuntos já foram ou são discutidos (conversados) com você? (repetir essa frase a cada 3-4 itens).</string>
+    <string name="H1">H1– Conselhos sobre alimentação saudável ou sobre dormir suficientemente.</string>
+    <string name="H2">H2 – Segurança no lar, como guardar medicamentos em segurança.</string>
+    <string name="H3">H3 – Aconselhamento sobre o uso de cinto de segurança ou assentos seguros para crianças ao andar de carro.</string>
+    <string name="H4">H4 – Maneiras de lidar com conflitos de família que podem surgir de vez em quando.</string>
+    <string name="H5">H5 – Conselhos a respeito de exercícios físicos apropriados para você.</string>
+    <string name="H6">H6 – Testes de sangue para verificar os níveis de colesterol.</string>
+    <string name="H7">H7 – Verificar e discutir os medicamentos que você está tomando.</string>
+    <string name="H8">H8 – Possíveis exposições a substâncias perigosas (ex: veneno para formiga/para rato, água sanitária), no seu lar, no trabalho, ou na sua vizinhança.</string>
+    <string name="H9">H9 – Perguntar se você tem uma arma de fogo e orientar como guardá-la com segurança.</string>
+    <string name="H10">H10 – Como prevenir queimaduras (ex: causadas por água quente, óleo quente, outras substâncias).</string>
+    <string name="H11">H11 – Como prevenir quedas.</string>
+    <string name="H12">H12 – Só para mulheres: como prevenir osteoporose ou ossos frágeis.</string>
+    <string name="H13">H13 – Só para mulheres: o cuidado de problemas comuns da menstruação ou menopausa.</string>
 
     <!--Padroes I-->
+    <string name="tituloI">I – ORIENTAÇÃO FAMILIAR</string>
+    <string name="I1">I1 – O seu “médico/enfermeiro” lhe pergunta sobre suas idéias e opiniões (sobre o que você pensa) ao planejar o tratamento e cuidado para você ou para um membro da sua família?</string>
+    <string name="I2">I2 – O seu “médico/enfermeiro” já lhe perguntou a respeito de doenças ou problemas comuns que podem ocorrer em sua família (câncer, alcoolismo, depressão)?</string>
+    <string name="I3">I3 – O seu “médico/enfermeiro” se reuniria com membros de sua família se você achasse necessário?</string>
 
     <!--Padroes J-->
+    <string name="tituloJ">J – ORIENTAÇÃO COMUNITÁRIA</string>
+    <string name="J1">J1 – Alguém no “nome do serviço de saúde / ou nome médico/enfermeiro” faz visitas domiciliares?</string>
+    <string name="J2">J2 – O seu “nome do serviço de saúde / ou nome médico/enfermeiro” conhece os problemas de saúde importantes na sua vizinhança?</string>
+    <string name="J3">J3 – O seu “nome do serviço de saúde / ou nome médico/enfermeiro” ouve opiniões e idéias da comunidade de como melhorar os serviços de saúde?</string>
+    <string name="JText1">A seguir são listadas formas de avaliar a qualidade de serviços de saúde. O “nome do serviço de saúde / ou nome médico/enfermeiro” realiza alguma destas?</string>
+    <string name="J4">J4 – Faz pesquisas com os pacientes para ver se os serviços estão satisfazendo (atendendo) as necessidades das pessoas?</string>
+    <string name="J5">J5 – Faz pesquisas na comunidade para identificar problemas de saúde que ele deveria conhecer?</string>
+    <string name="J6">J6 – Convida você e sua família para participar do Conselho Local de Saúde (Conselho Gestor / Conselho de Usuários)?</string>
 
     <!--Padroes-->
     <string name="NomeProfissional">Nome do profissional ou serviço de saúde:</string>
