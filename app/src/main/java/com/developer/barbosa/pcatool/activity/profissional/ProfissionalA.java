@@ -15,7 +15,7 @@ public class ProfissionalA extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profissional_a);
 
-        final Button btn = (Button) findViewById(R.id.seguir);
+        final Button btn = (Button) findViewById(R.id.proximo);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
