@@ -45,47 +45,47 @@
 
             <TableRow>
                 <TextView android:text="@string/H1P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH1">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph14"/>
                     <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph13"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph12"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph11"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph19"/>
                 </RadioGroup>
             </TableRow>
             <TableRow>
                 <TextView android:text="@string/H2P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH2">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph24"/>
                     <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph23"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph22"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph21"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph29"/>
                 </RadioGroup>
             </TableRow>
             <TableRow>
                 <TextView android:text="@string/H3P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH3">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
-                    <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph34"/>
+                    <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph33"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph32"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph31"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph39"/>
                 </RadioGroup>
             </TableRow>
 
@@ -98,47 +98,47 @@
 
             <TableRow>
                 <TextView android:text="@string/H4P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH4">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph44"/>
                     <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph43"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph42"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph41"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph49"/>
                 </RadioGroup>
             </TableRow>
             <TableRow>
                 <TextView android:text="@string/H5P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH5">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph54"/>
                     <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph53"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph52"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph51"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph59"/>
                 </RadioGroup>
             </TableRow>
             <TableRow>
                 <TextView android:text="@string/H6P" android:padding="3dp"/>
-                <RadioGroup android:orientation="horizontal">
+                <RadioGroup android:orientation="horizontal" android:id="@+id/GPH6">
                     <RadioButton android:text="@string/Pp4" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph64"/>
                     <RadioButton android:text="@string/Pp3" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph63"/>
                     <RadioButton android:text="@string/Pp2" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph62"/>
                     <RadioButton android:text="@string/Pp1" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph61"/>
                     <RadioButton android:text="@string/Pp9" android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" android:layout_gravity="center_horizontal|center_vertical" android:padding="5dp"/>
+                        android:layout_height="wrap_content" android:padding="5dp" android:id="@+id/ph69"/>
                 </RadioGroup>
             </TableRow>
 
